@@ -106,7 +106,7 @@ class BMICalculator extends StatelessWidget {
     'inches',
     style: kLabelTextStyle,
     )
-    ],
+    ]
     ),
     SliderTheme(
     data: SliderTheme.of(context).copyWith(
