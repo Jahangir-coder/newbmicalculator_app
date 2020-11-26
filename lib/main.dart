@@ -163,7 +163,7 @@ class BMICalculator extends StatelessWidget {
     });
     }),
     SizedBox(
-    width: 10.0,
+    width: 12.0,
     ),
     RoundIconButton(
     icon: FontAwesomeIcons.plus,
