@@ -107,7 +107,7 @@ class BMICalculator extends StatelessWidget {
     style: kLabelTextStyle,
     )
     ]
-    ),
+    ,
     SliderTheme(
     data: SliderTheme.of(context).copyWith(
     inactiveTrackColor: Color(0xFF8D8E98),
