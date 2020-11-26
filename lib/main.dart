@@ -38,7 +38,7 @@ class BMICalculator extends StatelessWidget {
     @override
     Widget build(BuildContext context) {
     return Scaffold(
-    appBar: Apight = 60;
+    appBar: Apight = 30;
     int age = 20;
 
     body: Column(
