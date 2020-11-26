@@ -122,7 +122,7 @@ class BMICalculator extends StatelessWidget {
     child: Slider(
     value: height.toDouble(),
     min: 110.0,
-    max: 220.0,
+    max: 210.0,
     onChanged: (double newValue) {
     setState(() {
     height = newValue.round();
