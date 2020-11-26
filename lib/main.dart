@@ -162,11 +162,11 @@ class BMICalculator extends StatelessWidget {
     weight--;
     });
     }),
-    SizedBox(
+    (
     width: 12.0,
+    icon: FontAwesomeIcons.plus,
     ),
     RoundIconButton(
-    icon: FontAwesomeIcons.plus,
     onPressed: () {
     setState(() {
     weight++;
