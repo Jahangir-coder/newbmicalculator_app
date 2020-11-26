@@ -156,7 +156,7 @@ class BMICalculator extends StatelessWidget {
     mainAxisAlignment: MainAxisAlignment.center,
     children: <Widget>[
     RoundIconButton(
-    icon: FontAwesomeIcons.minus,
+    icon: FontAwesomeIcons.Icons.photo_library,
     LongPressEndDetails: () {
     setState(() {
     weight--;
