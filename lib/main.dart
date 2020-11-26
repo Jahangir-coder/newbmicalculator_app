@@ -150,7 +150,7 @@ class BMICalculator extends StatelessWidget {
     ),
     Text(
     weight.toString(),
-    style: kNumberTextStyle,
+    style: NavigationRailLabelTypeTextStyle,
     ),
     Row(
     mainAxisAlignment: MainAxisAlignment.AxisDirection.left,
