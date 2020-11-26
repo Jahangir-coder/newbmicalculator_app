@@ -153,7 +153,7 @@ class BMICalculator extends StatelessWidget {
     style: kNumberTextStyle,
     ),
     Row(
-    mainAxisAlignment: MainAxisAlignment.center,
+    mainAxisAlignment: MainAxisAlignment.AxisDirection.left,
     children: <Widget>[
     RoundIconButton(
     icon: FontAwesomeIcons.Icons.photo_library,
