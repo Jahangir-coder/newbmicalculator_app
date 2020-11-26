@@ -33,7 +33,7 @@ class BMICalculator extends StatelessWidget {
 
     class _InputPageState extends State<InputPage> {
     Gender selectedGender;
-    int height = 180;
+    int height = 150;
     int we
     @override
     Widget build(BuildContext context) {
