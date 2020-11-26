@@ -62,7 +62,7 @@ class BMICalculator extends StatelessWidget {
     icon: FontAwesomeIcons.mars,
     label: 'Male',
     ),
-    ),
+    )
     ),
     Expanded
     child: ReusableCard(
