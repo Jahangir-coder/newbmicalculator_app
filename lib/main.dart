@@ -65,7 +65,7 @@ class BMICalculator extends StatelessWidget {
     ),
     ),
     ),
-    Expanded(
+    Expanded
     child: ReusableCard(
     onPress: () {
     setState(() {
