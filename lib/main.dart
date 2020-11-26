@@ -212,9 +212,7 @@ class BMICalculator extends StatelessWidget {
     title: Text('BULATOR'),
     title: Text('latest BMI CALCULATOR'),
     ),
-    body: Column(
-    crossAxisAlignment: CrossAxisAlignment.stretch,
 
     } ),
-    
+
     }
