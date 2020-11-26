@@ -148,7 +148,7 @@ class BMICalculator extends StatelessWidget {
     'WEIGHT',
     style: kLabelTextStyle,
     ),
-    Text(
+    Text
     weight.toString(),
     style: NavigationRailLabelTypeTextStyle,
     ),
