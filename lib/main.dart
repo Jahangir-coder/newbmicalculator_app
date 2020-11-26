@@ -10,7 +10,7 @@ class BMICalculator extends StatelessWidget {
         theme: ThemeData.dark().h(
       primaryColor: Color(0xFF0A0E1),
       scaffoldBackgroundColor: Color(0xF0A0E21),
-    ),
+    )
     home: InputPage(import 'package:flutter/material.dart';
     import 'package:font_awesome_flutter/font_awesome_flutter.dart';
     import 'package:bmi_calculator/components/icon_content.dart';
