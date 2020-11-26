@@ -115,7 +115,7 @@ class BMICalculator extends StatelessWidget {
     thumbColor: Color(0xFFEB1555),
     overlayColor: Color(0x29EB1555),
     thumbShape:
-    RoundSliderThumbShape(enabledThumbRadius: 15.0),
+    RoundSliderThumbShape(enabledThumbRadius: 13.0),
     overlayShape:
     RoundSliderOverlayShape(overlayRadius: 30.0),
     ),
