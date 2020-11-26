@@ -89,7 +89,7 @@ class BMICalculator extends StatelessWidget {
     mainAxisAlignment: MainAxisAlignment.center,
     children: <Widget>[
     Text(
-    'HEIGHT',
+    'Height',
     style: kLabelTextStyle,
     ),
     Row(
