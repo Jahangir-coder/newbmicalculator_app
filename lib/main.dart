@@ -157,7 +157,7 @@ class BMICalculator extends StatelessWidget {
     children: <Widget>[
     RoundIconButton(
     icon: FontAwesomeIcons.minus,
-    onPressed: () {
+    LongPressEndDetails: () {
     setState(() {
     weight--;
     });
