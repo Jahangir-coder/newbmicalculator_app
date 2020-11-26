@@ -234,7 +234,6 @@ class BMICalculator extends StatelessWidget {
     fontSize: 25.0,
     fontWeight: FontWeight.bold,
     );
-
     const kTitleTextStyle = TextStyle(
     fontSize: 50.0,
     fontWeight: FontWeight.bold,
