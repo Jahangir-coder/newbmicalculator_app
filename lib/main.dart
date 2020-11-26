@@ -263,7 +263,6 @@ class BMICalculator extends StatelessWidget {
         _bmi = weight / pow(height / 100, 2);
         return _bmi.toStringAsFixed(1);
         }
-
         String getResult() {
         if (_bmi >= 25) {
         return 'Overweight';
