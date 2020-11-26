@@ -103,7 +103,7 @@ class BMICalculator extends StatelessWidget {
     style: kNumberTextStyle,
     ),
     Text(
-    'cm',
+    'inches',
     style: kLabelTextStyle,
     )
     ],
