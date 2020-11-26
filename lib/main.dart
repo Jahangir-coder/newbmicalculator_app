@@ -39,8 +39,7 @@ class BMICalculator extends StatelessWidget {
     Widget build(BuildContext context) {
     return Scaffold(
     appBar: Apight = 30;
-    int age = 20;
-
+    int age = 20
     body: Column(
     crossAxisAlignment: CrossAxisAlignment.stretch,
     children: <Widget>[
